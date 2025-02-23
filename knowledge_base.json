@@ -1,0 +1,113 @@
+[
+    {
+        "category": "Freight Forwarder Guidance",
+        "question": "What is the role of a freight forwarder in compliance?",
+        "answer": "Freight forwarders play a key role in securing the global supply chain, preventing illegal exports, and ensuring compliance with U.S. export controls. They must work closely with exporters (USPPIs) to adhere to regulations like the EAR and BIS guidelines."
+    },
+    {
+        "category": "Freight Forwarder Responsibilities",
+        "question": "What are the key responsibilities of a freight forwarder?",
+        "answer": [
+            "Obtain clear instructions from the exporter/USPPI regarding service expectations.",
+            "Determine responsibility for filing Electronic Export Information (EEI) in the Automated Export System (AES).",
+            "Maintain recordkeeping compliance under EAR’s provisions (15 CFR 762).",
+            "Follow the ten general prohibitions in 15 CFR 736.2.",
+            "Ensure proper filing of EEI, handling licenses, and reviewing data accuracy."
+        ]
+    },
+    {
+        "category": "Export Transactions",
+        "question": "What is the difference between non-routed and routed export transactions?",
+        "answer": {
+            "Non-Routed Transaction": "The exporter/USPPI is responsible for export facilitation and EEI filing, or hiring an agent.",
+            "Routed Transaction": "The Foreign Principal Party in Interest (FPPI) takes responsibility for facilitating export and authorizes an agent."
+        }
+    },
+    {
+        "category": "Compliance Regulations",
+        "question": "What are some compliance best practices for freight forwarders?",
+        "answer": [
+            "Screen all parties against the Consolidated Screening List (CSL).",
+            "Ensure no parties involved are on U.S. Government restricted lists.",
+            "Provide compliance resources to exporters (e.g., BIS training).",
+            "Report non-compliant exporters/USPPIs via the Voluntary Self-Disclosure process."
+        ]
+    },
+    {
+        "category": "Red Flags",
+        "question": "What are some red flags for freight forwarders and exporters?",
+        "answer": [
+            "Exporter does not provide necessary documentation like ECCN, POA, or EEI.",
+            "Routed transactions paid for by an entity unrelated to the final destination.",
+            "Exporter is unfamiliar with the applicability of EAR regulations.",
+            "Exporter requests certification that no involved parties are of Israeli origin."
+        ]
+    },
+    {
+        "category": "Antiboycott Compliance",
+        "question": "What are the antiboycott laws and regulations?",
+        "answer": "Antiboycott laws prohibit U.S. companies from participating in unsanctioned foreign boycotts, such as the Arab League boycott of Israel. Companies must report boycott requests to the Office of Antiboycott Compliance (OAC)."
+    },
+    {
+        "category": "Selecting a Freight Forwarder",
+        "question": "What should exporters consider when selecting a freight forwarder?",
+        "answer": [
+            "Check the forwarder’s experience in handling shipments to the destination country.",
+            "Ensure management oversight and compliance programs are in place.",
+            "Set clear service expectations in a written agreement.",
+            "Maintain regular communication and review EEI filings for accuracy."
+        ]
+    },
+    {
+        "category": "Export Documentation",
+        "question": "What documents must a freight forwarder keep for compliance?",
+        "answer": [
+            "Shipper’s Letter of Instruction (SLI)",
+            "Power of Attorney (POA) or written authorization",
+            "Electronic Export Information (EEI) filing records",
+            "Invoices and packing lists",
+            "Export Control Classification Numbers (ECCN) documentation",
+            "License information (if applicable)"
+        ]
+    },
+    {
+        "category": "EEI Filing Responsibilities",
+        "question": "Who is responsible for filing the EEI in AES?",
+        "answer": {
+            "Non-Routed Transaction": "The exporter/USPPI is responsible for filing the EEI or hiring a U.S. agent (freight forwarder) to do so.",
+            "Routed Transaction": "The Foreign Principal Party in Interest (FPPI) authorizes a U.S. agent (which could be the exporter or the freight forwarder) to file the EEI."
+        }
+    },
+    {
+        "category": "Compliance Checks",
+        "question": "How should a freight forwarder screen for restricted parties?",
+        "answer": [
+            "Use the Consolidated Screening List (CSL) to check for restricted entities.",
+            "Ensure all parties involved in the transaction are not on any U.S. Government watchlists.",
+            "Check shipping documents for prohibited boycott language.",
+            "Review transactions involving high-risk jurisdictions or controlled goods."
+        ]
+    },
+    {
+        "category": "Export Control Violations",
+        "question": "What are some common export control violations?",
+        "answer": [
+            "Failing to properly classify goods under the Export Control Classification Number (ECCN).",
+            "Shipping goods without the required export license.",
+            "Providing false information in EEI filings.",
+            "Doing business with entities on restricted party lists.",
+            "Failing to report suspicious transactions to the BIS."
+        ]
+    },
+    {
+        "category": "Freight Forwarder Best Practices",
+        "question": "What are best practices for freight forwarders to ensure compliance?",
+        "answer": [
+            "Obtain and review the exporter/USPPI’s documentation before shipping.",
+            "Keep detailed records of all export transactions as required by 15 CFR 762.",
+            "Verify all licensing requirements and ensure transactions comply with BIS regulations.",
+            "Regularly train staff on EAR and U.S. Customs compliance requirements.",
+            "Immediately report any suspicious export transactions to the authorities."
+        ]
+    }
+]
